@@ -1,1 +1,8 @@
-assets/report.pdf
+---
+layout: default
+title: Milo Rappoport - Torque wrench pdf
+permalink: /torque_wrench/
+---
+## Curriculum Vitae
+
+[Download my pdf]({{ "/assets/report.pdf" | relative_url }}) in PDF format.
