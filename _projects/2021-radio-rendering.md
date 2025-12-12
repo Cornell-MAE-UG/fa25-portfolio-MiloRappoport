@@ -3,7 +3,7 @@ layout: project
 title: Drill Mechanical Dissection
 description: Dynamics analysis of mechanical system
 technologies: [Matlab] 
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/Drill.jpeg
 ---
 [Analysis pdf]({{ "/assets/Drill_Dissection.pdf" | relative_url }})
 
