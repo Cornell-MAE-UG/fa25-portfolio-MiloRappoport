@@ -5,8 +5,7 @@ description: Dynamics analysis of mechanical system
 technologies: [Matlab] 
 image: /assets/images/radio-machine-cad.jpg
 ---
-
-/assets/Drill_Dissection.pdf
+[Analysis pdf]({{ "/assets/Drill_Dissection.pdf" | relative_url }})
 
 {% comment %}
 For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
