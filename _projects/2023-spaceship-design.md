@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: Fluid Mechanical Dissection
+description: Took apart and analyzed a lawnmower engine
 technologies: [MATLAB, Power tools]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/Lawnmower.JPG
 ---
-[Lawnmower Engine Dissection](https://www.youtube.com/watch?v=DPTMppGmtYk)
+[Lawnmower Engine Dissection Video](https://www.youtube.com/watch?v=DPTMppGmtYk)
 
 {% comment %}
 
