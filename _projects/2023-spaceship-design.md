@@ -2,7 +2,7 @@
 layout: project
 title: Spaceship Design
 description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+technologies: [MATLAB, Power tools]
 image: /assets/images/spaceship-design.jpg
 ---
 [Lawnmower Engine Dissection](https://www.youtube.com/watch?v=DPTMppGmtYk)
