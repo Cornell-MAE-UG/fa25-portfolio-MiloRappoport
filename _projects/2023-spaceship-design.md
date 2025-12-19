@@ -7,6 +7,8 @@ image: /assets/images/Lawnmower.JPG
 ---
 [Lawnmower Engine Dissection Video](https://www.youtube.com/watch?v=DPTMppGmtYk)
 
+For this assignment we took apart and analyzed a fluid mechanical machine. This assignment was done in a group of 5, and our machine was a lawnmower engine. My contributions included measuring, documenting and doing the disassembly of the engine. I also helped with the analysis of some of the fluid mechanical components of the engine, especially the carburetor. 
+
 {% comment %}
 
 In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
