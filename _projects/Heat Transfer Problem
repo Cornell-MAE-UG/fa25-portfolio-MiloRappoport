@@ -5,7 +5,7 @@ description: Analysis of heat flux and
 technologies: [Isotherms, Principles of Heat Transfer]
 image: /assets/images/IMG_3279.jpg
 ---
-[Heat Transfer Problem Set](https://github.com/Cornell-MAE-UG/fa25-portfolio-MiloRappoport/blob/main/assets/Heat_transfer_hw2.pdf)
+[Heat Transfer Problem Set]({{"/assets/Heat_transfer_hw2.pdf" | relative_url }}) 
 
 For this assignment I needed to how to control and visualize energy flow, calculate power needs and power consumption. I navigated design constraints and calculated flux as well as mapping heat flux vectors. All of these skills are important to mechanical engineering. Overall from this assignment I learned about energy optimization, thermal management strategies and troubleshooting. 
 
