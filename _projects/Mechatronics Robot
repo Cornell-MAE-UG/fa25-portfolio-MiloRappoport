@@ -8,8 +8,7 @@ image: /assets/images/IMG_1455.jpeg
 
 
 
-
-[Final Report pdf]({{"/assets/Mechatronics Robot Project Final Report (2).pdf" | relative_url}}) 
+[Final Report pdf]({{ "/assets/robot.pdf" | relative_url }})
 
 For this assignment I competed in a team, robot competition. The goal of the competition was to collect more blocks than the other teamn's robot in one minute. This competition required design, microelectronics, coding using registers in C++ and fabrication. 
 
